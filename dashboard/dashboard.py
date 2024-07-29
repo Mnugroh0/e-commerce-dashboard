@@ -6,7 +6,7 @@ import seaborn as sns
 import numpy as np
 import calendar
 from func import DataFrameProcess
-warnings.filterwarnings("ignore", category=UserWarning, module="matplotlib.pyplot")
+
 
 # Dataset
 main_df = pd.read_csv('./dashboard/clean_data.csv')
