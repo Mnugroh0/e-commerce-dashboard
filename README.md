@@ -1,4 +1,4 @@
-# Submission Dicoding "Belajar Data Analytics dengan Python"
+# E-commerce RFM Analysis
 
 ## Project Data Analysis
 
@@ -10,8 +10,8 @@ This project aim is to do analysis in E-Commerce Public Dataset. With addition t
 
 ## Directory
 
-- **/E-Commerce Public Dataset**: This directory contains all the data that use in this project, with csv format.
-- **/dashboard**: This directory contains main.py which used for build dashboard, func.py to read datasets, and data that already cleaned with csv format.
+- **E-Commerce Public Dataset**: This directory contains all the data that use in this project, with csv format.
+- **dashboard**: This directory contains dashboard.py which used for build dashboard, func.py to read datasets, and data that already cleaned with csv format.
 - **Data Analysis Notebook.ipynb**: This file contains all analysis for this project.
 
 ## Instalation
@@ -19,14 +19,14 @@ This project aim is to do analysis in E-Commerce Public Dataset. With addition t
 1. Clone repository to your local computer with this command:
 
    ```shell
-   git clone https://github.com/Mnugroh0/Dicoding.git
+   git clone https://github.com/Mnugroh0/e-commerce-dashboard.git
    ```
 
 2. Make sure you have Python environment that compatible with the requirements. Do this to install all the requirements:
 
    ```shell
    pip install streamlit
-   pip install -r dashboard/requirements.txt
+   pip install requirements.txt
    ```
 
 ## How to use
